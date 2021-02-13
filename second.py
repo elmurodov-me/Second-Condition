@@ -39,7 +39,6 @@
 # print("3 ta son orasida:",x,"ta musbat son bor")
 # print("3 ta son orasida:",y,"ta manfiy son bor")
 
-#6
 # import random
 # a = random.randrange(-2, 20)
 # b = random.randrange(-2, 20)
@@ -50,7 +49,6 @@
 #     _max = b
 # print("2 sonimiz o'rtasidagi eng katta son:",_max)
 
-#7
 # import random
 # a = random.randrange(-2, 10)
 # b = random.randrange(-2, 10)
@@ -61,7 +59,6 @@
 #     _min = b
 # print("2 sonimiz o'rtasidagi eng kichkina son:",_min)
 
-#8
 # import random
 # a = random.randrange(-1, 10)
 # b = random.randrange(-1, 9)
@@ -71,7 +68,6 @@
 # else:
 #     print(b,a)
 
-#9
 # import random
 # a = random.randrange(-10, 8)
 # b = random.randrange(-10, 5)
@@ -92,7 +88,6 @@
 #     a = b = 0
 # print(a,":",b)
 
-#11
 # import random
 # a = random.randrange(-10, 8)
 # b =random.randrange(-10, 9)
@@ -103,7 +98,7 @@
 #     a= b = 0
 # print("a:",a,"b",b)
 
-#12
+
 # import random
 # a = random.randrange(-19 ,10)
 # b = random.randrange(-12, 6)
@@ -119,7 +114,6 @@
 # print("min:", n)
 # print(min(a,b,c))
 
-#13
 # import random
 # a = random.randrange(-19, 10)
 # b = random.randrange(6, 13)
@@ -133,7 +127,7 @@
 #     n = c
 # print("O'rtacha son:", n)
 
-#14
+
 # import random
 # a = random.randrange(-19, 10)
 # b = random.randrange(6, 13)
@@ -152,7 +146,6 @@
 # print("3ta son ichidagi eng kichkin son:",x,"ga teng")
 # print("3ta son ichidagi eng katta son:",y,"ga teng")
 
-#15
 # import random
 # a = random.randrange(-11, 10)
 # b = random.randrange(6, 19)
@@ -169,11 +162,6 @@
 #
 # print(min(a,b,c),max(a,b,c))
 
-#16
-number = float(input('A, B, C'))
-
-if number > 0:
-    print(number / 2)
 
 
 
